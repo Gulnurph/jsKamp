@@ -1,4 +1,6 @@
 
 {
-    "editor.fontSize": 20
+    "editor.fontSize": 20,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.sendKeybindingsToShell": true
 }
